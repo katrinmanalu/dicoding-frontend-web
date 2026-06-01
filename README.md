@@ -35,4 +35,4 @@ Untuk mempermudah penilaian submission yang dikirim, Anda perlu memahami ketentu
 </div>
 ```
 
-Selamat mengerjakan dan sukses selalu!
+
